@@ -10,7 +10,7 @@ menggunakan MQTT, serta mekanisme interupsi untuk input tombol.
 - Pembacaan sensor analog (GPIO 34)
 - Interupsi tombol eksternal (GPIO 4)
 - Kontrol LED melalui MQTT (GPIO 2)
-- Komunikasi WiFi + MQTT (HiveMQ Broker)
+- Komunikasi WiFi + MQTT (MQTT Explorer)
 
 ## Arsitektur Sistem
 - TaskSensor: membaca sensor setiap 5 detik
