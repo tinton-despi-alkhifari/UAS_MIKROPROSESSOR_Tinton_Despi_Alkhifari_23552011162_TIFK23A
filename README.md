@@ -36,3 +36,6 @@ menggunakan MQTT, serta mekanisme interupsi untuk input tombol.
 - FreeRTOS (ESP32 built-in)
 - MQTT Explorer
 - HiveMQ Public Broker
+
+## Link Video Demonstrasi
+- https://youtu.be/4Sjjc3rDVvU?si=8fGi1k-1C5WV6nnz
